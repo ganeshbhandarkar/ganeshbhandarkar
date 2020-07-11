@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-====================================================
 - 😎 I'm currently pursuing B.Tech in Information Technology
 - 👨‍🏭 I'm like working on Flutter, Native Android and Problem Solving
 - 😋 Better be chilling at home 🏡
