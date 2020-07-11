@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+====================================================
+- 😎 I'm currently pursuing B.Tech in Information Technology
+- 👨‍🏭 I'm like working on Flutter, Native Android and Problem Solving
+- 😋 Better be chilling at home 🏡
+- ✨ Fun Fact: I'm enjoying Quarantine lately
+- 📫 You can reach me:
+  - Instagram : [https://www.instagram.com/ganesh__bhandarkar]
+  - Facebook : [https://m.facebook.com/ganesh.bhandarkar.980]
