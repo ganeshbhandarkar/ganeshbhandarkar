@@ -24,8 +24,8 @@
 
 [![Twitter: Ganeshbtb](https://img.shields.io/twitter/follow/Ganeshbtb?style=social)](https://twitter.com/Ganeshbtb)
 <!--[![Instagram: ganesh__bhandarkar](https://img.shields.io/instagram/follow/ganesh__bhandarkar?style=social)](https://instagram.com/ganesh__bhandarkar)-->
-[![Linkedin: ganeshbhandarkar](https://img.shields.io/badge/-ganeshbhandarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganeshbhandarkar/)](https://www.linkedin.com/in/ganeshbhandarkar/)
-[![GitHub ganeshbhandarkar](https://img.shields.io/github/followers/ganeshbhandarkar?label=follow&style=social)](https://github.com/ganeshbhandarkar)
+[![Linkedin: ganeshbhandarkar](https://img.shields.io/badge/-ganeshbhandarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganeshbhandarkar/)](https://www.linkedin.com/in/ganeshbhandarkar/)\
+[![GitHub ganeshbhandarkar](https://img.shields.io/github/followers/ganeshbhandarkar?label=follow&style=social)](https://github.com/ganeshbhandarkar)\
 [![website](https://img.shields.io/badge/PortfolioWebsite-ganeshbhandarkar.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ganeshbhandarkar.github.io/)
 
 
