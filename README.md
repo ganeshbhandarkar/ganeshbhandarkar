@@ -37,14 +37,11 @@
 
 <a href="https://github.com/ganeshbhandarkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbhandarkar&theme=dark&hide_langs_below=1" />
-</a>
+</a>\
 <a href="https://github.com/ganeshbhandarkar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true&theme=dracula&line_height=27" alt="Ganesh's github stats"/>
 </a>
-
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
