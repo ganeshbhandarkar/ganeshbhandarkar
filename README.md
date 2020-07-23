@@ -16,8 +16,6 @@
 <br/>
 <br/>
 
-
-
 - 🔭 I’m currently working on [Improving Coding]
 - 🌱 I’m currently learning MERN, CP
 - ⚡ I know Flutter, Native Android, Unity(Basics), Godot 2D.
@@ -34,13 +32,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
 
-<a href="https://github.com/ganeshbhandarkar">
+<!--<a href="https://github.com/ganeshbhandarkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbhandarkar&theme=dark&hide_langs_below=1" />
-</a>\
+</a>\-->
 <a href="https://github.com/ganeshbhandarkar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true&theme=dracula&line_height=27" alt="Ganesh's github stats"/>
 </a>
+
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+  
+### Thanks For Visiting 
+
 </div>
 
