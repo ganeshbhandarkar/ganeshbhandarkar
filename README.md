@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-#PURSUING HAPPINESS
+PURSUING HAPPINESS
   
 - 🔭 I’m currently working on [Improving Coding]
 - 🌱 I’m currently learning MERN, CP
