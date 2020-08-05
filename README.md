@@ -1,4 +1,4 @@
-## Hola, I'm [GANESH BHANDARKAR!](https://pawan.live) 👋
+## Hola, I'm [GANESH BHANDARKAR!](https://ganeshbhandarkar.github.io) 👋
 
 <a href="https://twitter.com/Ganeshbtb">
   <img align="left" alt="Ganesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-  ###PURSUING HAPPINESS
+#PURSUING HAPPINESS
   
 - 🔭 I’m currently working on [Improving Coding]
 - 🌱 I’m currently learning MERN, CP
