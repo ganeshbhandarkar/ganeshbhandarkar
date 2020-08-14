@@ -1,5 +1,42 @@
-## Hola, I'm [GANESH BHANDARKAR!](https://ganeshbhandarkar.github.io) 👋
+<!-- NEW STUFF -->
 
+<h1 align="center">HEY 👋, I'm Ganesh Bhandarkar</h1>
+<h3 align="center">Pre-final Year Student at KIIT , Learning to Code Better & Efficient</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbhandarkar" alt="ganeshbhandarkar" /> </p>
+
+- 🔭 I’m currently working on [CP](https://github.com/ganeshbhandarkar/CP)
+
+- 🌱 I’m currently learning **Competitive Programming, BlockChain ,React , Open-CV, D3-js, etc**
+
+- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)
+
+- 💬 Ask me about **flutter, native-android, godot**
+
+- 📫 How to reach me **gbgb1bgbg@gmail.com**
+
+- ⚡ Fun fact **sleep is the best meditation**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbhandarkar&layout=compact&hide=html" alt="ganeshbhandarkar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true" alt="ganeshbhandarkar" /></p>
+
+<p align="center">
+<a href="https://dev.to/ganeshbhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ganeshbhandarkar" height="30" width="30" /></a>
+<a href="https://twitter.com/ganesh.btb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganesh.btb" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ganeshbhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganeshbhandarkar" height="30" width="30" /></a>
+<a href="https://instagram.com/ganesh__bhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesh__bhandarkar" height="30" width="30" /></a>
+</p>
+
+
+<!-- OLD STUFF -->
+<!---
+## Hola, I'm [GANESH BHANDARKAR!](https://ganeshbhandarkar.github.io) 👋
+<!--
 <a href="https://twitter.com/Ganeshbtb">
   <img align="left" alt="Ganesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,24 +49,26 @@
 <a href="https://instagram.com/ganesh__bhandarkar/">
   <img align="left" alt="Ganesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+-->
 
+<!--
 <br/>
 <br/>
-
+<!--
 PURSUING HAPPINESS
-  
+ <!--
 - 🔭 I’m currently working on [Improving Coding]
 - 🌱 I’m currently learning MERN, CP
 - ⚡ I know Flutter, Native Android, Unity(Basics), Godot 2D.
-
+<!--
 [![Twitter: Ganeshbtb](https://img.shields.io/twitter/follow/Ganeshbtb?style=social)](https://twitter.com/Ganeshbtb)\
 [![Linkedin: ganeshbhandarkar](https://img.shields.io/badge/-ganeshbhandarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganeshbhandarkar/)](https://www.linkedin.com/in/ganeshbhandarkar/)\
 [![GitHub ganeshbhandarkar](https://img.shields.io/github/followers/ganeshbhandarkar?label=follow&style=social)](https://github.com/ganeshbhandarkar)\
 [![website](https://img.shields.io/badge/PortfolioWebsite-ganeshbhandarkar.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ganeshbhandarkar.github.io/)
 
-
+<!--
 **Languages and Tools:**  
-
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
@@ -37,13 +76,8 @@ PURSUING HAPPINESS
 <!--<a href="https://github.com/ganeshbhandarkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbhandarkar&theme=dark&hide_langs_below=1" />
 </a>\-->
+<!--
 <a href="https://github.com/ganeshbhandarkar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true&theme=dracula&line_height=27" alt="Ganesh's github stats"/>
-</a>
-
-<div align="center">
-  
-### Thanks For Visiting 
-
-</div>
+</a>-->
 
