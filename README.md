@@ -3,7 +3,8 @@
 <h1 align="center">HEY 👋, I'm Ganesh Bhandarkar</h1>
 <h3 align="center">Pre-final Year Student at KIIT , Learning to Code Better & Efficient</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbhandarkar" alt="ganeshbhandarkar" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshbhandarkar" alt="ganeshbhandarkar" /> </p>
 
 - 🔭 I’m currently working on [CP](https://github.com/ganeshbhandarkar/CP)
 
@@ -27,6 +28,8 @@
 <a href="https://linkedin.com/in/ganeshbhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganeshbhandarkar" height="30" width="30" /></a>
 <a href="https://instagram.com/ganesh__bhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesh__bhandarkar" height="30" width="30" /></a>
 </p>
+
+<h3 align="center">Thanks For Visit!! </h3>
 
 
 <!-- OLD STUFF -->
