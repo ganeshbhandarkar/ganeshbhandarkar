@@ -1,7 +1,7 @@
 <!-- NEW STUFF -->
 
 <h1 align="center">HEY 👋, I'm Ganesh Bhandarkar</h1>
-<h3 align="center">Pre-final Year Student at KIIT , Learning to Code Better & Efficient</h3>
+<h3 align="center">Pre-final Year Student, Learning to Code Better & Efficient</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshbhandarkar" alt="ganeshbhandarkar" /> </p>
