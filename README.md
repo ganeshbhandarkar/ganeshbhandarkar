@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [CP](https://github.com/ganeshbhandarkar/CP)
 
-- 🌱 I’m currently learning **Competitive Programming, BlockChain ,React , Open-CV, D3-js, etc**
+- 🌱 I’m currently learning **Competitive Programming, BlockChain ,React , etc**
 
-- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)
+<!--- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)-->
 
 - 💬 Ask me about **flutter, native-android, godot**
 
