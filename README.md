@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **flutter, native-android, godot**
 
-- 📫 How to reach me **gbgb1bgbg@gmail.com**
+- 📫 How to reach me **ganesh.btb142000@gmail.com**
 
 - ⚡ Fun fact **sleep is the best meditation**
 
